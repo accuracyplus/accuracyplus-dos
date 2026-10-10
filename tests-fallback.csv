@@ -1,0 +1,471 @@
+﻿Test ID,CPT Code,Test Name,ISO 15189:2022 Accredited Test,Methodology,Sample Types,Sample Volume,Category,TAT,Sample Stability,Sample Temp
+AEC,89190,Absolute Eosinophil Count,★,Flow Cytometry,K2/K3 EDTA WB,3 ml,A1,12 hrs,2 days,2-8
+ALT,84460,Alanine Aminotransferase (ALT/SGPT),★,IFCC (Without pyridoxal phosphate activation),Serum,1 ml,A1,12 hrs,7 days,2-8
+ALB,82040,"Albumin, Serum",★,Bromocresol Green,Serum,1 ml,A1,12 hrs,7 days,2-8
+AGR,82040+84155,Albumin/Globulin (A/G) Ratio,,Calculated,Serum,1 ml,A1,12 hrs,7 days,2-8
+ALP,84075,Alkaline phosphatase (ALP),★,IFCC AMP buffer,Serum,1 ml,A1,12 hrs,7 days,2-8
+AMYL,82150,"Amylase, Serum",★,IFCC - EPS,Serum,1 ml,A1,12 hrs,7 days,2-8
+AMH,83520,Anti - Mullerian Hormone (AMH),,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+ATPO,86376,Anti - Thyroid Peroxidase Antibody (aTPO),,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+HCV,86803,Anti-HCV,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+AST-SGOT,84450,Aspartate Aminotransferase (AST/ SGOT),★,IFCC (With / without pyridoxal-5'-phosphate),Serum,1 ml,A1,12 hrs,7 days,2-8
+B-HCG,84702,Beta-HCG (Human Chorionic Gonadotropin),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+BICBAT,82374,Bicarbonate,★,Enzymatic - PEP-MD,Serum,1 ml,A1,12 hrs,7 days,2-8
+BIL-D,82248,"Bilirubin, Direct",★,DPD,Serum,1 ml,A1,12 hrs,7 days,2-8
+BIL-I,82248,"Bilirubin, Indirect",,Calculation,Serum,1 ml,A1,12 hrs,7 days,2-8
+BILT,82247,"Bilirubin, Total",★,DPD,Serum,1 ml,A1,12 hrs,7 days,2-8
+BIL-U,81000,"Bilirubin, urine",★,Dipstick,Random Urine,20 ml,A1,12 hrs,1 day,2-8
+CULSBA,87040+87184,Blood culture-bacterial identification,,Aerobic Disk Diffusion,Blood Culture Broth,"Adults: 10 ml, Paediatric: 1 – 3 ml",A1,5-7 days,4 days,15-22
+BUN,84520,Blood Urea Nitrogen,,Calculation,Serum,1 ml,A1,12 hrs,7 days,2-8
+BUNCRR,84520+82565,BUN / Creatinine Ratio,,Calculation,Serum,1 ml,A1,12 hrs,7 days,2-8
+CAL,82310,"Calcium, Serum",★,Arsenazo III,Serum,1 ml Serum/ 20 ml Urine,A1,12 hrs,7 days,2-8
+CSPCR,87481,Candida Species By PCR,,Real-Time PCR,Dry Swab / Urine/LBC,Dry swab/ 10 ml Urine/LBC,A1,3 days,1-3 days except LBC: 30 days,2-8
+CTBPCR,87491,Chlamydia Trachomatis By PCR,,Real-Time PCR,urine / Urethral swab / High vaginal / Cervical swab / Throat swab / Oral swab Rectal swab / LBC / Semen,10 ml 1st catch urine/ 1 Dry swab/ 1 ml semen/LB,A1,3 days,1-3 days except LBC: 30 days,2-8 / 15-22 for LBC
+CLMG,87491+87591,Chlamydia/Gonorrhea PCR,,Real-Time PCR,Dry Swab / Urine,1 swab/ 10 ml 1st catch urine,A1,3 days,1-3 days except LBC: 30 days,2-8
+CHLO,82435,Chloride - Serum,★,Indirect ISE oriented PVC Membrane,Serum,1 ml,A1,12 hrs,7 days,2-8
+CHOL,82465,Cholesterol,★,CHO - POD,Serum,1 ml,A1,12 hrs,7 days,2-8
+HDL,83718,"Cholesterol, HDL",★,Enzymatic PEP - MD,Serum,1 ml,A1,12 hrs,7 days,2-8
+D-LDL,83721,"Cholesterol, LDL-Direct",★,Enzymatic selective protection,Serum,1 ml,A1,12 hrs,7 days,2-8
+CBC,85025,COMPLETE BLOOD COUNT,★,"Flowcytometry, electrical impedance",K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+CRP,86140,C-Reactive Protein,★,Latex particle Immunoturbidimetric assay,Serum,1 ml,A1,12 hrs,7 days,2-8
+CKMB,82553,Creatine Kinase-MB (CKMB),★,CK IFCC Method Plus immunoinhibition,Serum,1 ml,A1,12 hrs,7 days,2-8
+CRE URINE,82570,"Creatinine, Random Urine",,Enzymatic,Random Urine,20 ml,A1,12 hrs,3 days,2-8
+CREAT,82565,"Creatinine, Serum",★,Enzymatic,Serum,1 ml,A1,12 hrs,7 days,2-8
+CULSA,87070+87184,Culture & Sensitivity - Aerobic,,Aerobic Disk Diffusion,Gel Swab,1 swab,A1,3-5 days,2 days,2-8
+CSMU,87109+87184,Culture & Sensitivity - Mycoplasma & Ureaplasma,,Biochemical Test,High vaginal Swab*/ Cervical swab*/ Urethral swab*/Urine (First catch) /Semen/UTM* Swab with Amies transport media (Gel Swab) or Dry Swab,1 swab/ 10 ml 1st catch urine/ 1 ml Semen,A2,3-4 days,2 days,2-8
+CSPS,87070+87184,Culture & Sensitivity - Prostatic Secretion,,Aerobic Disk Diffusion,Gel Swab,1 swab,A1,3-5 days,2 days,2-8
+CSTRA,87070+87184,Culture & Sensitivity - Tracheal,,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+CSTS,87070+87184,Culture & Sensitivity - Tracheostomy Site,,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+CSUS,87070+87184,Culture & Sensitivity - Umbilical Swab,,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+CSUNS,87070+87184,Culture & Sensitivity - Underarm Swab,,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+CSURTH,87070+87184,Culture & Sensitivity - Urethral,,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+CULOTS,87070+87184,Culture (Others),,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab/fluid),20 ml,A1,3-5 days,2 days,2-8
+DHEAS,82627,Dehydroepiandrosterone - Sulfate (DHEA-SO4),,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+ELECTR,80051,ELECTROLYTE,★,ISE (Indirect) crown-ether membrane,Serum,3 ml,A1,12 hrs,24 hours,2-8
+RBC,85041,Erythrocyte Count,★,Electrical Resistance,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+ESR,85651,Erythrocytes sedimentation rate,★,Westergren Method,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+E2,82670,Estradiol (E2),,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+FERRI,82728,Ferritin,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+FLCI,87015+87184,Fluid culture - bacterial identification (Aerobic),,Aerobic Disk Diffusion,Body Fluid,1 ml,A1,3-5 days,2 days,2-8
+FOLS,82746,Folate (Serum),★,CLIA,Serum (Fasting sample preferred),1 ml,A1,12 hrs,2 days,2-8
+FSH,83001,Follicle-Stimulating Hormone (FSH),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+FAI0,84270+84403,Free Androgen Index (FAI),,Calculation,Serum,1 ml,A1,2 days,7 days,2-8
+FPSA,84154,Free PSA (Prostatic Specific Antigen),★,CLIA,Serum,1 ml,A1,2 days,7 days,2-8
+GGT,82977,Gamma Glutamyl Transferase (GGT),★,IFCC,Serum,1 ml,A1,12 hrs,7 days,2-8
+GVPCR,87511,Gardnerella Vaginalis (PCR),,Real-Time PCR,"Dry Swab, Urine","1 dry swab, 10nml 1st",A1,2 days,1-2 days except LBC:,2-8
+GTT APML,82951,GLUCOSE TOLERANCE TEST 75 gm,★,Hexokinase,Fluoride x 3,2 ml,A1,12 hrs,1 day,2-8
+FBS,82947,"Glucose, Fasting",★,Hexokinase,Fluoride,2 ml,A1,12 hrs,1 day,2-8
+PPBS,82950,"Glucose, Post Prandial",★,Hexokinase,Fluoride,2 ml,A1,12 hrs,1 day,2-8
+RBS,82947,"Glucose, Random",★,Hexokinase,Fluoride,2 ml,A1,12 hrs,1 day,2-8
+HbA1c,83036,Glycosylated Hemoglobin (HbA1c),★,HPLC,K2/K3 EDTA WB,3 ml,A1,12 hrs,7 days,2-8
+GSTN,87205,Gram Stain,★,Stained smear read by Microscopic,(Sputum / Urine / Abscess / BAL / Body fluid.,All types of specimens,A1,1 day,2 days,2-8
+HPY-AG,87338,"H Pylori Antigen, Stool",★,Chromatography,Stool,5 gm,A1,12 hrs,1 day,2-8
+HB,85018,Hemoglobin,★,colorimetric,K2/K3 EDTA WB,3ml,A1,12 hrs,1 day,2-8
+HCPAB,86677,Helicobacter Pylori Antibody IGG (Serum),,Rapid Chromatographic Immunoassay,Serum,1 ml,A1,12 hrs,7 days,2-8
+HCT-PCV,85014,Hematocrit-PCV,★,Calculated,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+HAVT,86708,"Hepatitis A Virus (HAV) Total, Antibody",★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+HAVIGM,86709,"Hepatitis A Virus, IgM (HAV IgM)",★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+HBSAG,87340,Hepatitis B surface Ag,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+HBSAB,86706,Hepatitis B Surface Antibody (Anti-HBs),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+HSVTP,87529,Herpes I & II And Treponema Pallidum By PCR,,Real-Time PCR,High vaginal / Cervical swab / Urethral Swab/Urine,1 swab/ 10 ml 1st catch urine,A1,3 days,2 days,2-8
+HSVPCR,87529,Herpes Simplex Virus (HSV) I And II (PCR),,Real-Time PCR,EDTA,1 ml EDTA,A2,3-5 days,5 days,2-8
+HVTV,87660,High Vaginal for Trichomonas Vaginalis by PCR,,Real-Time PCR,High vaginal / Cervical swab / Urethral Swab,1 swab,A1,3 days,2 days,2-8
+HIV1/2+P24,87806,HIV I & II Ab +P24 Ag,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+HOMIX,89240,HOMA Index,★,CLIA (Calculation),Serum x 3 + Fluoride x 3,1 ml+2ml+3 ml Serum +3 ml Fl.,A1,2 days,3 days,2-8
+IGET,82785,Immunoglobulin (IgE) - Total,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+IABAG,87400,Influenza A And B Antigen,★,Lateral Flow Immunoassay,Nasopharyngeal Swab,1 swab,A1,12 hrs,1 day,2-8
+IRT,83525,Insulin Resistance Test,★,CLIA,Serum x 3 / Fluoride x 3,3 ml Serum + 3 ml Fl.,A1,2 days,7 days,2-8
+INS-R,83525,"Insulin, Random",★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+IRON,83540,"Iron, Serum",★,Ferrozine Colorimetric Method,Serum,1 ml,A1,12 hrs,7 days,2-8
+KTNE,82010,Ketone,★,Photoelectric colorimetry,Urine,20 ml,A1,12 hrs,24 hours,2-8
+LH,83002,Luteinizing Hormone (LH),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+LPSE,83690,Lipase,,Enzymatic Colorimetric Method,Serum,1 ml,A1,12 hrs,7 days,2-8
+LIPID,80061,LIPID PROFILE,★,See single test,Serum,3 ml,A1,12 hrs,7 days,2-8
+LFT,80076,LIVER FUNCTION TEST,★,See single test,Serum,3 ml,A1,12 hrs,7 days,2-8
+ALC,85048,"Lymphocytes, Absolute",★,Flowcytometry,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+MAG,83735,"Magnesium, Serum",★,"Xylidyl Blue, Tris buffer",Serum,1 ml,A1,12 hrs,7 days,2-8
+Malaria,87899,"Malaria Antigen Screening, Whole Blood",,Lateral Flow Immuno- chromatography,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+MAPC,85032,Manual Platelet Count,,Blood Film,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+MALB,82043,Microalbumin (Random),★,Immunoturbidimetric,Random Urine,15 ml,A1,12 hrs,3 days,2-8
+ALB /CREAT,82043+82570,Microalbumin Creatinine Ratio,★,Calculated,Random Urine,20 ml,A1,12 hrs,7 days,2-8
+NGPCR,87591,Neisseria Gonorrhea PCR,,Real-Time PCR,Dry Swab / Urine,1 swab/ 20 ml Urine,A1,3 days,3 days,2-8
+NEUT,85048,"Neutrophils, Absolute",★,Flowcytometry,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+OCI,87070+87184,Others culture - bacterial identification (Aerobic),,Aerobic Disk Diffusion,Gel Swab,1 swab,A1,3-5 days,2 days,2-8
+PTH,83970,Parathyroid Hormone (PTH),,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+PS,85060,PERIPHERAL SMEAR,★,Microscopic examination of stained smear,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+PHOS,84100,"Phosphorous, Inorganic",★,Phosphomolybdate Complex,Serum,1 ml,A1,12 hrs,7 days,2-8
+PLT,85049,Platelet count,★,Flow Cytometry,K2/K3 EDTA WB,3 ml,A1,12 hrs,days,2-8
+POTAS,84132,"Potassium, Serum",★,Indirect ISE Method (crown ether membrane,Serum,1 ml,A1,12 hrs,1 day,2-8
+PROG,84144,Progesterone,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+PRL,84146,Prolactin,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+TPSA,84153,"Prostate Specific Antigen, total",★,CLIA,Serum,1 ml,A1,2 days,7 days,2-8
+CSPUS,87070+87184,Pus culture - bacterial identification (Aerobic),★,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+RFT/KFT,80069,RENAL FUNCTION TEST,★,Seeing single test,Serum,3 ml,A1,12 hrs,7 days,2-8
+RSAG,87280,Respiratory Syncytial Virus Antigen Screening (RSV),★,Rapid Chromatography,Swab,1 swab,A1,12 hrs,2 days,2-8
+RF-QN,86431,Rheumatoid Factor (RA),★,Latex particle immurbidimetric Method,Serum,1 ml,A1,12 hrs,7 days,2-8
+RUAB,86762,Rubella Antibody IgG,,ECLIA,Serum,1 ml,A1,2-3 days,7 days,2-8
+Semen,89322,Semen Analysis,,"Physical, Chemical, Microscopic/& counting",Semen,Full semen sample,A1,12 hrs,30 min,15-22
+SMCI,87070+87184,Semen culture - bacterial identification (Aerobic),,Aerobic Disk Diffusion,Semen (Lab Collection only),1 ml,A1,3-5 days,1 day,2-8
+SHBG,84270,Sex Hormone Binding Globulin (SHBG),,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+SODIUM,84295,"Sodium, Serum",★,Indirect ISE Method (crown ether membrane,Serum,1 ml,A1,12 hrs,1 day,2-8
+CSSPUT,87070+87184,"Sputum Culture, bacterial identification (Aerobic)",★,Aerobic Disk Diffusion,Thick purulent sputum sample in a sterile container,1 ml,A1,3-5 days,2 days,2-8
+CSC,87045,Stool Culture,★,Culture,Stool,5 grams,A1,3-5 days,1 day,2-8
+STCI,87045+87184,Stool culture & Sensitivity - bacterial identification (Aerobic),,Aerobic Disk Diffusion,Stool,Stool sample in a sterile,A1,3-5 days,1 day,2-8
+SOB,82270,Stool Occult Blood,,Rapid Chromatographic Immunoassay,Stool,5 grams,A1,12 hrs,1 day,2-8
+STOOLR,87177,Stool Routine,★,"Physical, Chemical, & Microscopic",Stool,5 grams,A1,12 hrs,1 day,2-8
+SGA,87430,Streptococcus Group A (Rapid Test),★,Lateral flow chromatography,Dry Swab,1 Dry swab,A1,12 hrs,1 day,2-8
+T3,84480,T3 - Total (Tri Iodothyronine) (TT3),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+T4,84436,T4 - Total (Thyroxine - Total) (TT4),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+TESTF,84402,Testosterone Free,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+TESTO,84403,"Testosterone, Total",★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+THRCI,87070+87184,Throat culture - bacterial identification (Aerobic),★,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+TSH,84443,Thyroid Stimulating Hormone (TSH),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+FT4,84439,Thyroxine free (FT4),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+TIBC,83550,Total Iron Binding Capacity (TIBC),★,Calculated,Serum,1 ml,A1,12 hrs,7 days,2-8
+WBC/TLC,85048,Total Leukocyte Count,★,Electrical impedence,K2/K3 EDTA WB,3 ml,A1,12 hrs,1 day,2-8
+TP,84155,"Total Protein, Serum",★,Colorimetric- Biuret,Serum,1 ml,A1,12 hrs,7 days,2-8
+TRNS-SAT,84466,Transferring Saturation %,,Calculated,Serum,1 ml,A1,12 hrs,7 days,2-8
+TPBPCR,87798,Treponema Pallidum By PCR,,Real-Time PCR,High vaginal / Cervical swab / Urethral Swab/Urine,1 swab/ 20 ml Urine,A1,3 days,2 days,2-8
+TVPCR,87798,Trichomonas Vaginalis (PCR),,Real-Time PCR,High vaginal / Cervical swab / Urethral Swab/Urine,1 swab/ 20 ml Urine,A1,3 days,1-2 days,2-8
+TVMCR,87081,Trichomonas Vaginalis Microscopy,,Microscopic examination,Urine/Vaginal Swab,1 Gel swab/20 ml urine,A1,1 day,1 hour,2-8
+TG,84478,Triglycerides,★,GPO-POD,Serum,1 ml,A1,12 hrs,7 days,2-8
+FT3,84481,Tri-Iodothyronine-Free (FT3),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+TROPI,84484,Troponin I,★,CLIA,Serum,1 ml,A1,1 hr,14 days,2-8
+URC,84520+82565,Urea / Creatinine Ratio,★,Calculated,Serum,1 ml,A1,1 day,7 days,2-8
+UREA,84520,"Urea, Serum",★,"GLDH, Kinetic Assay",Serum,1 ml,A1,12 hrs,7 days,2-8
+UA-S,84550,"Uric Acid, Serum",★,Uricase /POD Method,Serum,1 ml,A1,12 hrs,5 days,2-8
+URCI,87088+87184,Urine culture - bacterial identification (Aerobic),★,Aerobic Disk Diffusion,Midstream Urine (MSU) in a sterile container,20 ml,A1,3-5 days,1 day,2-8
+URINE R/M,81001,URINE ROUTINE,★,Microscopy and Automated analyzer,Random Urine,20 ml,A1,12 hrs,1 day,2-8
+B12,82607,Vitamin B12,★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+VITD,82306,Vitamin D (25-OH),★,CLIA,Serum,1 ml,A1,12 hrs,7 days,2-8
+WCI,87070+87184,Wound culture -bacterial identification (Aerobic),★,Aerobic Disk Diffusion,Swab with Amies transport media (Gel Swab),1 swab,A1,3-5 days,2 days,2-8
+ZINC,84630,Zinc,★,Colorimetric Without deproteinisation,Serum,1 ml,A1,12 hrs,7 days,2-8
+ABO-Rh,86900/86901,ABO Blood Group & Rh Type,,Column agglutination,K2/K3 EDTA WB,3 ml,A2,1-2 days,2 days,2-8
+APTT,85347,Activated Partial Thromboplastin Time (APTT),,Photo optical clot detection,Citrated plasma,2 ml,A1,12 hrs,4-12 hours,2-8
+AFP,82105,Alpha Feto Protein (AFP),,ECLIA,Serum,1 ml,A1,3 days,28 days,2-8
+AMYL-U,82150,Amylase - Urine,,IFCC - EPS,24 Hrs Urine,24 hr Urine,A2,2-3 days,3 days,2-8
+CANCA,86021,ANCA (C-ANCA) / PR3,,ELISA,Serum,1 ml,A2,7-10 days,7 days,2-8
+PANCA,86021,ANCA (P-ANCA) / MPO,,ELISA,Serum,1 ml,A2,7-10 days,7 days,2-8
+ANTITG,86800,Anti - Thyroglobulin Antibody (Anti-Tg),,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+ATAA,83516,"Anti - Transglutaminase Antibody, IgA",,CLIA,Serum,1 ml,A2,7-10 days,7 days,2-8
+ATAG,83516,"Anti - Transglutaminase Antibody, IgG",,ELISA,Serum,1 ml,A2,4-5 days,7 days,2-8
+AJO1,86235,Anti Jo1 Antibodies,,Immunocap,Serum,1 ml,A1,3-5 days,7 days,2-8
+ANAS,86038,"Antinuclear Antibody (ANA), Screening",,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+ANAS,86038,"Antinuclear Antibody (ANA), profile",,Immuno flurosence,Serum,1 ml,A1,3-5 days,7 days,2-8
+IIA,82784,Immunoglobulin IgA,,Immunoturbidimetry,Serum,1 ml,A2,2-3 days,7-10 days,2-8
+IMGG,82784,Immunoglobulin IgG,,Immunoturbidimetry,Serum,1 ml,A2,2-3 days,7-10 days,2-8
+IIM,82784,Immunoglobulin IgM,,Immunoturbidimetry,Serum,1 ml,A2,2-3 days,7-10 days,2-8
+KOHF,87210,KOH Preparation for Fungal Study,,Wet Cover Slip/Lactophenol Cotton Blue,Skin Scrapings/Nail clippings/Hair clippings,Skin Scrapings/Nail,A1,1 day,7 days,15-22
+RETC,85044,Reticulocyte Count,,Supra Vital Stain,K2/K3 EDTA WB,3ml,A1,12 hrs,1 day,2-8
+CA125,86304,CA 125 (Ovary),,CLIA,Serum,1 ml,A2,2 days,2-3 days,2-8
+CA153,86300,CA 15-3 (Breast),,CLIA,Serum,1 ml,A2,2 days,2-3 days,2-8
+CA199,86301,CA 19.9 (Digestive System),,CLIA,Serum,1 ml,A2,2 days,2-3 days,2-8
+CALCIZ,82330,Calcium Ionized,,Calculated,Serum,1 ml,A1,12 hrs,7 days,2-8
+CALPR,83993,"Calprotectin, Fecal",,ELISA,Stool,5 grams,A2,3-4 days,1 day,2-8
+CEA,82378,Carcinoembryonic Antigen (CEA),,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+CERPL,82390,Ceruloplasmin,,NEPHELOMETRY,serum (10-12hr fasting),2ml,A2,7-10 days,7 days,2-8
+CPC4,86160,Complement C4,,Immunoturbidimetry,Serum,1 ml,A1,12 hrs,7 days,2-8
+COPP,82525,Copper,,Colorimetric without deproteinisation,Serum,1 ml,A1,2 days,7 days,2-8
+CORAM,82533,Cortisol – AM (8:00 am),,CLIA,Serum,1 ml,A1,2 days,7 days,2-8
+CORPM,82533,Cortisol – PM (4:00 pm),,CLIA,Serum,1 ml,A1,2 days,7 days,2-8
+COTNIU,80101,Cotinine / Nicotine (Urine) Qualitative,,Immunoassay,Random Urine,20 ml,A1,1 day,2 days,2-8
+CPK,82550,Creatine Kinase (CPK / CK),★,IFCC -CK (NAC),Serum,1 ml,A1,12 hrs,1 day,2-8
+DDIM,85379,D-Dimer,,Immunoturbidimetry,Citrated plasma,2 ml,A2,12 hrs,24 hours,2-8
+ENAP,86235,ENA Profile,,Immunoblot,Serum,1 ml,A1,5 days,7 days,2-8
+GIAG,87269,Giardia Lamblia Antigen,,Chromatography,Stool,5 grams,A2,1-2 days,2 days,2-8
+GLU-U,82947,"Glucose, Urine quantitative",,Photoelectric colorimetry,Random Urine,15 ml,A1,12 hrs,24 hours,2-8
+HSV1G,86695,"Herpes Simplex Virus I (HSV-I), IgG",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+HSV1M,86695,"Herpes Simplex Virus I (HSV-I), IgM",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+HSV2G,86696,"Herpes Simplex Virus II (HSV-II), IgG",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+HSV2M,86696,"Herpes Simplex Virus II (HSV-II), IgM",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+HIVCW,86703,HIV 1 & 2 Antibodies (Western Blot),,Western Blot,Serum,1 ml,A2,7-10 days,7 days,2-8
+ILGF-1,84305,Insulin-like Growth Factor 1 (IGF-1),,CLIA,Serum,2ml,A2,7-10 days,7 days,2-8
+ILGF2,82542,Insulin-like Growth Factor 2 (IGF-2),,ECLIA,Serum,2 ml,A2,14 days,7 days,2-8
+MFSMR,87207,Microfilaria Smear,,Direct Examination,K2/K3 EDTA WB,3ml,A1,12 hrs,1 day,2-8
+MSTIN,86308,Mono Spot Test (Infectious Mononucleosis),,Latex Agglutination,Serum,1 ml,A2,2 days,7 days,2-8
+MRSCR,87641,MRSA Screening,,Disc diffusion,Swab with Amies transport media (Gel Swab),1 swab,A2,2-3 days,2 days,2-8
+POST,84133,Potassium - 24 hr Urine,,Indirect ISE Method,24 Hrs Urine,24 hr Urine,A2,12 hrs,1 day,15-22
+PREG-S,81025,"Pregnancy Test, Qualitative",,Chromatography,Random Urine,20 ml,A1,12 hrs,1 day,2-8
+PT-INR,85610,Prothrombin Time (PT-INR),,Photo optical clot detection,Citrated Blood,3 ml,A1,12 hrs,24 hours,2-8
+QTBG,86480,QuantiFERON -TB Gold,,ELISA,Heparin tube (Sodium or Lithium),3 ml,A2,4-5 days,14 days,2-8
+ROTS,87425,Rotavirus (Stool),,Rapid Chromatographic Immunoassay,Stool,5 grams,A2,2 days,1 day,2-8
+RIGMEC,86762,"Rubella Antibody, IgM",,CLIA,Serum,1 ml,A1,2-3 days,7 days,2-8
+SEAG,87299,Salmonella Antigen,,Latex Titer,Stool,5 grams,A2,1-2 days,2 day,2-8
+SODU,84300,Sodium - 24 hr Urine,,Indirect ISE Method,24 Hrs Urine,24 Hr Urine,A1,12 hrs,1 day,2-8
+SRO56,86235,"SSA (Ro 52, 60) Antibodies",,Immunoblot,Serum,1 ml,A1,5 days,7 days,2-8
+SSBAB,86235,SSB (La) Antibodies,,Immunoblot,Serum,1 ml,A1,5 days,7 days,2-8
+SFAS,89051+89060,Synovial Fluid Analysis,,Microscopy & ECLIA,Synovial Fluid,3 ml,A2,2-3 days,3 days,2-8
+TPHA,86780,TPHA,,Hemagglutination,Serum,1 ml,A1,12 hrs,7 days,2-8
+UOSM,83935,Urine Osmolality,,Calculated,Random Urine,20 ml,A1,12 hrs,1 day,2-8
+YCM,86768,Widal Agglutinations,,Slide Latex Agglutination,Serum,3 ml,A2,1 day,7 days,2-8
+ZNSAFB,87206,Ziehl Nielsen Stain for Acid Fast Bacilli (AFB),,Stained smear read by Microscopic,All types of specimens (Sputum/Urine/Abscess/BAL/Bod,1 ml blood / 20 ml urine / 1,A2,1-2 days,3 days,2-8
+11DEOX,82634,11 - Deoxycortisol,,LC-MS/MS,Serum,3 ml,A2,30 days,30 days,2-8
+17OHPR,84143,17-Hydroxy Pregnonelone,,LC-MS/MS,Serum,3 ml,A2,14-21 days,14 days,2-8
+17OHP,83498,17-Hydroxy Progesterone,,CLIA,Serum,1 ml,A1,3 days,7 days,2-8
+17HYDC,83491,17-Hydroxycorticosteriods,,Photometry,24 Hrs Urine,24 hr Urine,A2,10-15 days,20 days,2-8
+17KETOU,83586,17-Ketosteroids - Urine,,Photometry,24 Hrs Urine,24 Hr Urine,A2,15 days,20 days,2-8
+ALUMU,82108,24 Hr Urine Aluminium,,Atomic emission,24 Hrs Urine,24 hr Urine,A2,7-14 days,20 days,2-8
+CORTI,82533,24 Hr Urine Cortisol,,CLIA,24 Hrs Urine,24 hr Urine,A2,10-14 days,14 days,2-8
+CORFU,82533,24 Hr Urine Cortisol Free,,Immunoluminometric assay,24 Hrs Urine,24 hr Urine,A2,10-14 days,14 days,2-8
+UMER,83825,24 Hr Urine Mercury,,ICP-MS,24 Hrs Urine,24 Hr Urine,A2,10-14 days,20 days,2-8
+5NTD,83915,5'-Nucleotidase,,Spectrophotometry,Serum,3 ml,A2,25 days,30 days,2-8
+ACETA,82003,Acetaminophen (Paracetamol),,Photometry,Serum,3 ml,A2,5-7 days,7 days,2-8
+ACTBD,82010,Acetone quantitative,,Gas cromatography-Head Space,Serum,3 ml,A2,10-14 days,15 days,2-8
+ACETY,83519,Acetylcholine Receptor Antibodies,,ELISA,Serum,3 ml,A2,7-10 days,25days,2-8
+ACTLE,82013,Acetylcholinesterase,,Spectrophotometry,Amniotic fluid Sterile container,3 ml,A2,15 days,15 days,2-8
+APT,84060,Acid Phosphatase Total,,Spectrophotometry,Serum,3 ml,A2,10-12 days,15 days,2-8
+ADEND,84311,Adenosine Deaminase,,Photometry,Serum,3 ml,A2,7-10 days,28 days,2-8
+ADA,87260,Adenovirus Antigen,,Immunoassay,Stool,5 grams,A2,2 days,2 days,2-8
+ADIP,83520,Adiponectin,,ELISA,Serum,2 ml,A2,14-15 days,28 days,2-8
+ACXA,86255,Adrenal Cortex Antibodies,,IFA,Serum,3 ml,A2,20 days,7 days,2-8
+ACTH,82024,Adrenocorticotropic Hormone (ACTH),,ECLIA,K2/K3 EDTA WB,3 ml,A2,4-5 days,28 days,2-8
+CULTB,87116+87184,"AFB Culture (TB Culture), Sputum",,Culture,Sputum,3 ml,A2,42-56 days,7 days,2-8
+ALCHLB,82055,Alcohol (Blood),,Enzymatic,Serum,1 ml,A2,1-2 days,7 days,2-8
+ALCHLU,82055,Alcohol (Urine),,Solid Phase Chemistry,Urine,20 ml,A2,1-2 days,2 days,2-8
+ALDO,82085,Aldolase,,Photometry,Serum,2 ml,A2,7-10 days,7 days,2-8
+ALDEU,82088,Aldosterone - Urine,,Chemiluminescence,24 Hrs Urine,24 hr Urine,A2,10 days,10 days,2-8
+API,84080,Alkaline Phosphatase Isoenzymes,,Electrophoresis,Serum,2 ml,A2,10-14 days,45 days,2-8
+ALP1T,82103,Alpha 1 Antitrypsin,,Immunoturbidimetry,Serum,3 ml,A2,7-10 days,7 days,2-8
+ALP1TP,82103,Alpha 1 Antitrypsin stool,,TIA,stool,5 gm,A2,10 days,10days,2-8
+ALP2M,83883,Alpha-2-Macroglobulin,,Nephelometric,Serum,2 ml,A2,7-10 days,10 days,2-8
+ALUM,82108,Aluminium,,ICPMS,K2/K3 EDTA WB,3 ml,A2,7-10 days,14 days,2-8
+AMKCN,80150,Amikacin,,EIA,Serum,3 ml,A2,25 days,7 days,2-8
+AAB,82139,Amino Acid,,LC-MS/MS,EDTA plasma,3 ml,A2,14-15 days,45 days,2-8
+AMIC,80299,Amiodarone (Cordarone),,LC-MS/MS,Serum (Frozen),3 ml,A2,25 days,7 days,2-8
+AMTE,80152,Amitriptyline (Elavil),,LC-MS/MS,Serum,3 ml,A2,10-14 days,7 days,2-8
+AEHAN,87337,Amoebic (E. Histolytica) Antigen,,Enzyme Immunoassay (EIA),fresh unpreserved stool (frozen),2 grams,A2,14 days,15 days,2-8
+AMPTS,82145,Amphetamine - Screen,,Immunoassay,Urine,20 ml,A2,2 days,2 days,2-8
+AMYBF,82150,Amylase - Body Fluid / Urine,,CLIA,Body fluid/ urine,1 ml,A2,7 days,28 days,2-8
+AIE,82150X2,Amylase Isoenzymes,,Photometry,Serum,3 ml,A2,7-10 days,28 days,2-8
+AMYO,88342,Amyloid A,,Immunoturbidimetry,Serum,2 ml,A2,7-10 days,7 days,2-8
+ANABC,89240,Anaerobic Culture,,Disc diffusion,Swab,1 swab,A2,3-5 days,3 days,2-8
+ANDTD,82157,Androstenedione,,CLIA,Serum,3 ml,A2,2-3 days,7 days,2-8
+ABAR,86611,Anti - Bartonella Antibodies,,Immunoassay,Serum,3 ml,A2,14-18 days,7 days,2-8
+ABPAA,86615,"Anti - Bordetella Pertussis Antibody, IgA",,IFA,Serum,3 ml,A2,13-15 days,7 days,2-8
+ABPAG,86615,"Anti - Bordetella Pertussis Antibody, IgG",,IFA,Serum,3 ml,A2,13-15 days,28 days,2-8
+ABPAM,86615,"Anti - Bordetella Pertussis Antibody, IgM",,Immunoassay,Serum,3 ml,A2,10-14 days,7 days,2-8
+ABOR,86618,Anti - Borrelia Antibodies,,Chemiluminescence,Serum,3 ml,A2,5-7 days,7 days,2-8
+ABAIG,86622,"Anti - Brucella Antibody, IgG",,EIA,Serum,2 ml,A2,5-6 days,7 days,2-8
+ABAIM,86622,"Anti - Brucella Antibody, IgM",,EIA,Serum,2 ml,A2,5-6 days,14 days,2-8
+ACAIG,86147,"Anti - Cardiolipin Antibody, IgG",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+ACAIM,86147,"Anti - Cardiolipin Antibody, IgM",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+ADH,84588,Anti - Diuretic Hormone (CT-proAVP),,Fluorescence Immunoassay,EDTA Plasma (Frozen),3 ml,A2,7 days,28 days,2-8
+DSDNA,86225,Anti - DsDNA (Double Stranded) Antibody Screen,,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+AEAA,86256,"Anti - Endomysium Antibody, IgA",,IF,Serum,3 ml,A2,7 days,7 days,2-8
+AEAG,86256,"Anti - Endomysium Antibody, IgG",,IF,Serum,3 ml,A2,7 days,7 days,2-8
+AIFA,86340,Anti - Intrinsic Factor Antibody,,ELISA,Serum,3 ml,A2,4-5 days,7 days,2-8
+MALAB,86750,Anti - Malaria Total Antibody (Qualitative),,Immunochromatography,Serum,1 ml,A2,14 days,7 days,2-8
+AMOGA,86256,Anti - MOG Antibodies (Myelin Oligodendrocyte Glycoprotein),,IFT,Serum,3 ml,A2,15-16 days,7 days,2-8
+APAIG,86148,"Anti - Phospholipid Antibody, IgG",,ELISA,Serum,1 ml,A2,7-10 days,7 days,2-8
+APAIM,86148,"Anti - Phospholipid Antibody, IgM",,ELISA,Serum,1 ml,A2,7-10 days,7 days,2-8
+ASA,86235,Anti - Smith Antibodies,,Immunoblot,Serum,1 ml,A2,4-5 days,7 days,2-8
+ASMA,83516,Anti - Smooth Muscle Antibody (ASMA),,IF,Serum,1 ml,A2,7-10 days,15 days,2-8
+ASPAB,89325,Anti - Sperm Antibody (Serum),,ELISA,Serum,3 ml,A2,7-10 days,7 days,2-8
+ASOT,86060,Anti - Streptolysin O Titer (ASOT),,Immunoturbidimetry,Serum,1 ml,A1,12 hrs,7 days,2-8
+ATH3,85300,Anti - Thrombin III Level,,Clotting,Citrated plasma,3 ml,A2,7 days,14 days,2-8
+AVABG,86787,"Anti - Varicella Antibody, IgG",,CLIA,Serum,1 ml,A2,7-10 days,7 days,2-8
+AVABM,86787,"Anti - Varicella Antibody, IgM",,CLIA,Serum,1 ml,A2,7-10 days,7 days,2-8
+APO1,82172,Apolipoprotein A1,,Photometry,Serum,1 ml,A2,2-3 days,7 days,2-8
+ARSNC,82175,Arsenic,,ICPMS,EDTA,6 ml,A2,7-10 days,7 days,2-8
+ASPER,87305,Aspergillus Galactomannan Antigen,,ELISA,Serum,3 ml,A2,7-10 days,7 days,2-8
+BARBQ,82205,Barbiturates - Qualitative,,Rapid immunochromatography,Random Urine,20 ml,A1,12 hrs,1 day,2-8
+BZDQL,80299,Benzodiazepine - Qualitative,,Rapid immunochromatography,Random Urine,20 ml,A1,12 hrs,1 day,2-8
+BJIGA,86146,"Beta 2 Glycoprotein 1 Antibody, IgA",,ELISA,Serum,1 ml,A2,4-5 days,7 days,2-8
+B2GA,86146,"Beta 2 Glycoprotein 1 Antibody, IgG",,ELISA,Serum,1 ml,A2,7-10 days,7 days,2-8
+B2GG,86146,"Beta 2 Glycoprotein 1 Antibody, IgM",,ELISA,Serum,1 ml,A2,7-10 days,7 days,2-8
+B2MS,82232,Beta 2 Microglobulin - Serum,,CLIA,Serum,1 ml,A2,7-10 days,7 days,2-8
+BILACD,82239,Bile Acid total,,Enzymatic Colorimetric,Serum,1 ml,A2,7-10 days,7 days,2-8
+BSBPG,82239+82247,Bile Salts/Bile Pigments,,Photometry,Random Urine,10 ml,A2,1-2 days,3 days,2-8
+ACCP,86200,Cyclic Citrullinated Peptide Abs (Anti-CCP),,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+CYSTC,82610,Cystatin C,,Immunoturbidimetry,Serum,3 ml,A2,7-10 days,7 days,2-8
+CMVG,86644,"Cytomegalovirus (CMV) Antibody, IgG",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+CMVM,86645,"Cytomegalovirus (CMV) Antibody, IgM",,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+DHEA,82626,Dehydroepiandrosterone (DHEA),,CLIA,Serum,1 ml,A2,4-5 days,7 days,2-8
+DHT,82651,Dihydrotestosterone (DHT),,ELISA,Serum,2 ml,A2,7-10 days,7 days,2-8
+DTGAS,86317,Diphtheria Toxoid IgG Antibody,,EIA,Serum,3 ml,A2,14-15 days,20 days,-20
+DWN1T0,84163+84702+89240,Down's Risk (1st Trimester) (Double marker),,ECLIA / Calculation,Serum + Ultrasound report,3 ml,A2,4-5 days,7 days,2-8
+DR2T,89240,Downs Risk 2nd Trimester (Triple marker),,ECLIA / Calculation,Serum + Ultrasound report,3 ml,A2,5-7 days,7 days,2-8
+DWN2T,89240,Downs Risk 2nd Trimester (Quadruple Test),,ECLIA/ Calculation,Serum + Ultrasound report,3 ml,A2,7-10 days,15 days,2-8
+ELAS,82656,Elastase,,Enzyme Immunoassay,Stool,5 grams,A2,4-5 days,7 days,2-8
+EBVEG,86663,"Epstein-Barr Virus (EBV) Early Antigen, IgG",,ELISA,Serum,1 ml,A2,5-6 days,7 days,2-8
+EBVEM,86663,"Epstein-Barr Virus (EBV) Early Antigen, IgM",,ELISA,Serum,1 ml,A2,5-6 days,7 days,2-8
+EBVIM,86665,"Epstein-Barr Virus (EBV-VCA) Antibody, IgM",,ELISA,Serum,1 ml,A2,5-6 days,7 days,2-8
+EBNAG,86664,"Epstein-Barr Virus Nuclear Antigen (EBNA), IgG",,ELISA,Serum,1 ml,A2,5-6 days,7 days,2-8
+ESTGN,82672,"Estrogen, Total",,ECLIA,Serum,3 ml,A2,14 days,20 days,-20
+ESTNE,82679,Estrone,,Immunoassay,Serum,3 ml,A2,15 days,20 days,-20
+F2A,85210,Factor II (Thrombin) Activity,,Coagulation assay,Citrated plasma (Frozen),4 ml,A2,15-18 days,20 days,-20
+FVII,85230,Factor VII Activity Assay,,Coagulation assay,Citrated plasma (Frozen),4 ml,A2,7-10 days,20 days,-20
+FXI,85270,Factor XI,,Coagulation assay,Citrated plasma (Frozen),4 ml,A2,6-7 days,10 days,-20
+FFRST,82715,Fecal Fat (Steatorrhea) - Random Stool,,Physical & ChemicalAnalysis,Stool,5 grams,A2,7-10 days,14 days,2-8
+FIBGN,85384,Fibrinogen,,Agglutination,Citrated plasma (Frozen),4 ml,A2,1-2 days,14 days,-20
+FNA0,88172,Fine Needle Aspiration (FNAC),,Microscopic Examination,Fluid,FNA,A2,3-7 days,Indefinite once,2-8
+FDBLOT,86001,Food Intolerance Test (Food print),,immunoblot,Serum,1 ml,A2,7-10 days,7 days,2-8
+FRUS,82985,Fructosamine,,Photometry,Serum,2 ml,A2,7-10 days,7 days,2-8
+FRCQT,82757,Fructose (Semen) - Quantitative,,Photometry,Semen,3 ml,A2,4-5 days,7 days,2-8
+FNGCT,87106+87184,Fungal Culture (Tissue),,Culture,Tissue,Tissue,A2,21-28 days,30 days,2-8
+FCAS,87106+87184,Fungal Culture and Sensitivity,,Culture,Other (SkinScrapings/Nail/Hair),SkinScrapings/Nail/Hair,A2,21-28 days,30 days,2-8
+GPCAB,86255,Gastric Parietal Cells Antibody,,IF,Serum,2 ml,A2,7-8 days,10 days,-20
+GAST,82941,Gastrin,,CLIA,Serum,3 ml,A2,10-12 days,15 days,-20
+GLIADIGA,83516,"Gliadin Antibody, IgA",,ELISA,Serum,1 ml,A2,3-4 days,7 days,2-8
+GLIADIGG,83516,"Gliadin Antibody, IgG",,ELISA,Serum,1 ml,A2,3-4 days,7 days,2-8
+GBMAB,86255,"Glomerular Basement Membrane Antibodies, Confirmation",,IFT,Serum,2 ml,A2,14-20 days,25 days,-20
+G6PHD,82955,Glucose-6-Phosphate Dehydrogenase (G6PD)*,,UV Kinetic Method,K2/K3 EDTA WB,1 ml,A2,2-3 days,3 days,2-8
+GLTT,82978,Glutathione Total,,HPLC,K2/K3 EDTA WB (Frozen),3 ml,A2,10-14 days,15 days,-20
+GNTHOR,83727,Gonadotropin Releasing Hormone (GnRH),,RIA,EDTA Plasma (Frozen),4 ml,A2,20 days,25 days,-20
+HPG,83010,Haptoglobin,,Immunoturbidimetry,Serum,2 ml,A2,7-10 days,15 days,-20
+HMVPLC,83020,Hemoglobin Variant,,HPLC,K2/K3 EDTA WB,3 ml,A2,5-6 days,7 days,2-8
+HBCM,86705,Hepatitis B Core Antibody - IgM (Anti-HBc),,ECLIA,Serum,1 ml,A2,3 days,7 days,2-8
+HBCT,86704,Hepatitis B Core Antibody - Total (Anti-HBc),,ECLIA,Serum,1 ml,A2,3 days,7 days,2-8
+HBVQL,87516,"Hepatitis B Virus DNA, PCR Qualt.",,Real-Time PCR,EDTA Plasma,2 ml,A2,4-5 days,7 days,-20
+HBVQT,89240,"Hepatitis B Virus DNA, PCR Quant.",,Real-Time PCR,EDTA Plasma,2 ml,A2,4-5 days,7 days,-20
+HCVQL,87521,Hepatitis C PCR - Qualitative,,Real-Time PCR,EDTA Plasma,2 ml,A2,6-7 days,10 days,-20
+HCVQN,87521,Hepatitis C PCR - Quantitative,,RNA PCR,EDTA Plasma,2 ml,A2,6-7 days,10 days,-20
+HCVAG,87299,Hepatitis C Virus (HCV) Antigen,,Abbott Architect CMIA,Serum,3 ml,A2,5-7 days,7 days,2-8
+HCVPCR,87902,"Hepatitis C Virus (HCV), Genotyping PCR",,Western blot,Serum,3 ml,A2,10-14 days,15 days,-20
+HEVGG,86790,Hepatitis E Virus (HEV) Antibody IgG,,ELISA (automated),Serum,3 ml,A2,7-10 days,15 days,-20
+HEVMG,86790,"Hepatitis E Virus (HEV) Antibody, IgM",,ELISA (automated),Serum,3 ml,A2,7-10 days,15 days,-20
+HIV1PCR,87535,HIV 1 Qualitative PCR,,Real-Time PCR,EDTA Plasma,2 ml,A2,7-10 days,7 days,2-8
+HIVRNA,87538,HIV 1 RNA Quantification (Viral Load PCR),,PCR,EDTA Plasma (Frozen),3 ml,A2,7-10 days,15 days,-20
+HIV2QL,87538,HIV 2 RNA PCR Qualitative,,Real-Time PCR,EDTA Plasma (Frozen),2 ml,A2,5-6 days,7 days,2-8
+HIV2P,87538,HIV 2 RNA PCR Quantitative (Viral Load),,DNA / RNA extraction and analysis by qualitative,EDTA Plasma (Frozen),3 ml,A2,14-21 days,25 days,-20
+HIVDRG,87901,HIV Drug Resistance Genotype,,Sanger-sequencing,EDTA Plasma (Frozen),2 ml,A2,14-21 days,25 days,-20
+HLAHR,81380,HLA A High Resolution,,PCR/DNA Sequencing,K2/K3 EDTA WB,3 ml,A2,14 days,14 days,2-8
+HLABH,81380,HLA B High Resolution,,PCR/DNA Sequencing,K2/K3 EDTA WB,3 ml,A2,14 days,14 days,2-8
+HLAB,81374,HLA B27 (PCR),,PCR,K2/K3 EDTA WB,3ml,A2,7-10 days,7 days,2-8
+HOMS,83090,Homocysteine,,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+HPV,87621,HPV (Individual Low and High-Risk DNA Subtypes),,PCR,LBC/Urine/swab,1 swab/ 10ml urine/,A1,3-5 days,7 days,2-8
+HTLV,86687+86688,HTLV - I & II Serology,,CMIA,Serum,2 ml,A2,5-7 days,7 days,-20
+IMGD,82784,Immunoglobulin IgD,,Turbidimetry,Serum,3 ml,A2,10-14 days,15 days,-20
+IMSG,82787,Immunoglobulin Subclass IgG4,,Nephelometry,Serum,3 ml,A2,7 days,7 days,2-8
+IABPCR,87502,Influenza A And B By PCR,,Real-Time PCR,Nasopharyngeal Swab or Bronchial Specimen,1 Nasopharyngeal Swab,A2,3 days,5 days,2-8
+IHIB,82397,Inhibin B,,EIA,Serum,3 ml,A2,14-20 days,25 days,-20
+INFREE,83527,Insulin - Free,,CLIA,Serum,3 ml,A2,14-20 days,25 days,-20
+IL10,83520,Interleukin IL-6,,ECLIA,EDTA,3 ml,A2,7-10 days,30 days,-20
+IODS,82542,Iodine,,ICP-MS,Royal blue top,3 ml,A2,20-25 days,30 days,-20
+IODI,82542,Iodine - Urine,,ICP-MS,24 Hrs Urine/Random,24 hr Urine,A2,15-16 days,20 days,-20
+LDH,83615,Lactate Dehydrogenase (LDH),,IFCC,Serum,1 ml,A2,2 days,4 days,2-8
+LFQT,83631,Lactoferrin Quantitative,,Immunoassay,Stool,5 grams,A2,25 days,30 days,-20
+LEAD,83655,Lead (Blood),,ICP-MS,K2 EDTA/ Royal blue,6 ml,A2,7-10 days,7 days,2-8
+LFMET,80299,Leflunomide Metabolite,,HTLC-MS/MS,Serum,3 ml,A2,25 days,30 days,-20
+LGAB,86713,Legionella Antibodies,,EIA,Serum,3 ml,A2,18 days,20 days,-20
+LMDPCR,87801,"Legionella species, Molecular Detection, PCR",,PCR,"Nasal/Throat/Nasopharyngeal Swab/BAL In VTM,","1 swab / Sputum,",A2,10-14 days,15 days,2-8
+LVA,86717,Leishmania Antibodies,,ELISA,Serum,2 ml,A2,7-10 days,14 days,-20
+LEPA,86720,Leptospira Antibodies,,ELISA,Serum,3 ml,A2,10-14 days,14 days,-20
+LIPAA,83695,Lipoprotein (a),,Photometry,Serum,2 ml,A2,2-3 days,7 days,2-8
+LIPA1,82172,Lipoprotein A1,,Immunoturbidimetry,Serum,2 ml,A2,2-3 days,7 days,2-8
+LBC,88142,Liquid Based Cytology,,LBC,LBC kit,1 bottle,A1,3-4 days,3 months,15-22
+LITM,80178,Lithium,,Photometry,Serum,3 ml,A2,7-10 days,7 days,2-8
+LKMAB,86376,Liver Kidney Microsomal Antibodies (LKM),,ELISA,Serum,3 ml,A2,7-10 days,7 days,2-8
+LUPAT,85613,Lupus Anticoagulant,,DRVVT assay clotting based,Citrated Plasma,4 ml,A2,7 days,28 days,-20
+LSZYM,85549,Lysozyme,,Nephelometry,Serum,3 ml,A2,18-20 days,25 days,-20
+MANG,83785,Manganese,,ICP-MS,EDTA,3 ml,A2,7-10 days,14 days,-20
+MS IGG,86765,"Measles, IgG",,CLIA,Serum,1 ml,A2,7-10 days,7 days,2-8
+MSM,86765,"Measles, IgM",,CLIA,Serum,1 ml,A2,5-6 days,7 days,2-8
+MER,83825,Mercury,,ICP-MS,K2 EDTA/ Royal blue tube,6 ml,A2,7-10 days,7 days,2-8
+MHEM,83050,Methemoglobin,,Spectrophotometry,K2/K3 EDTA WB,3 ml,A2,5-6 days,7 days,2-8
+MMAD,83921,Methyl Malonic Acid,,LC-MS/MS,Serum,20 ml,A2,14-25 days,30 days,-20
+MC,87109+87184,Mycoplasma Culture,,Culture,High vaginal Swab*/ Cervical swab*/ Urethral swab*/Urine,1 High vaginal Swab*/ 1,A2,3-4 days,5 days,15-22
+MGPCR,87798,Mycoplasma Genitalium by PCR,,Real-Time PCR,10 mL 1st catch urine / Urethral swab / High vaginal / Cervical swab/LBC,10 mL 1st catch urine / 1 dry swab,A1,3 days,5 days except LBC: 30 days,2-8 / LBC: 15-22
+MHPCR,87798,Mycoplasma Hominis By PCR,,Real-Time PCR,10 mL 1st catch urine / Urethral swab / High vaginal / Cervical swab/LBC,10 mL 1st catch urine / 1 dry swab,A1,3 days,5 days except LBC: 30 days,2-8 / LBC: 15-22
+MYPIGA,86738,"Mycoplasma Pneumonia, IgA",,CLIA,Serum,2 ml,A2,4-5 days,7 days,2-8
+MPIGG,86738,"Mycoplasma Pneumonia, IgG",,CLIA,Serum,1 ml,A2,4-5 days,7 days,2-8
+MPIGM,86738,"Mycoplasma Pneumonia, IgM",,CLIA,Serum,1 ml,A2,4-5 days,7 days,2-8
+MYPCR,87798,Mycoplasma pneumoniae by PCR,,Real-Time PCR,Other Body Fluids,3 ml,A2,3-5 days,7 days,2-8
+MQ,83874,Myoglobin - Quantitative,,Chemiluminescent Immunometric assay,Serum,3 ml,A2,7-10 days,7 days,2-8
+NICUR,80101,Nicotine (Urine),,Immunoassay,Random Urine,20 ml,A1,12 hrs,1 day,2-8
+NMQT,80299,Nicotine And Metabolites (Quantitative),,HPLC,Serum,3 ml,A2,7-10 days,30 days,-20
+NIPT,81420,NIPT Basic medi,,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NIPTGM,81420,NIPT Genomewide medi,,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NIPTCB,81420,NIPT SRL Basic,,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NIPTCEM,81420,NIPT SRL Extended / Microdeletion,,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NIPTB,81420,NIPT Panorama Basic,,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NIPTE,81420,NIPT Panorama Extended,,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NIPTCG,81420,"NIPT Core, with gender",,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NIPTCOG,81420,"NIPT Comprehensive, with gender",,NGS,Sample Kit,1 kit,A2,7-10 days,10 days,15-22
+NKAP,86357,"NK Assay, Panel",,Flow Cytometry,K2/K3 EDTA WB/Sodium heparin,9 x 3 ml,A2,10-14 days,2 days,15-24
+NGC,88160,Non-Gynae Cytology,,Cytology,Slides/Fluid,N / A,A2,3-4 days,3 Months,Ambient (15-22)
+OM3F,82542,Omega 3 Fatty Acids,,GC-MS/MS,K2/K3 EDTA WB,3 ml,A2,7-10 days,10 days,-20
+OXALAT,83945,Oxalate - Urine 24 hours,,EIA,24 Hrs Urine,24 hr Urine,A2,7-14 days,15 days,-20
+OXLT,83945,Oxalate (Serum),,EIA,Serum (Frozen),3 ml,A2,21 days,25 days,-20
+OTLC,80299,Oxcarbazepine / Trileptal Metabolite (MHC),,HPLC,Serum (Frozen),3 ml,A2,10-14 days,28 days,-20
+PBIGG,86747,"Parvovirus (B19) Antibody, IgG",,Chemiluminescence,Serum,2 ml,A2,4-6 days,7 days,2-8
+PBIGM,86747,"Parvovirus (B19) Antibody, IgM",,Chemiluminescence,Serum,2 ml,A2,4-5 days,7 days,2-8
+PYTN,80185,Phenytoin,,Photometry,Serum,3 ml,A2,7-10 days,7 days,2-8
+PYTNF,80186,Phenytoin Free,,Spectrophotometry,Serum,3 ml,A2,14 days,15 days,-20
+PORPQ,84106,Porphobilinogen (Qualitative),,Cromatography-Visible spectrophotometry,Random Urine,20 ml,A2,7-14 days,15 days,-20
+PRELN,84140,Pregnenolone,,LC-MS/MS,Serum,3 ml,A2,21 days,28 days,-20
+PBNP,83880,ProBrain Natriuretic Peptide (proBNP),,ECLIA,Serum,1 ml,A2,1 day,3 days,2-8
+PCL,84145,Procalcitonin,,CLIA,Serum,2 ml,A2,7-10 days,7 days,2-8
+PINS,84206,Proinsulin,,Enzyme Immunoassay,Serum,2 ml,A2,10-15 days,15 days,-20
+PCAC,85303,Protein C - Activity,,Coagulation assay,Citrated plasma (Frozen),4 ml,A2,5-6 days,14 days,-20
+PCAG,85303,Protein C - Antigen,,Coagulation assay,Citrated plasma (Frozen),4 ml,A2,15 days,14 days,-20
+PSA,85305,Protein S - Activity,,Coagulation assay,Citrated plasma (Frozen),4 ml,A2,5-6 days,14 days,-20
+PSAG,85305,Protein S Free Antigen,,Antibody-Antigen Based,Citrated plasma (Frozen),2 ml,A2,15 days,28 days,-20
+REDST,84378,Reducing Substances,,Colorimetric Method,Stool,5 grams stool,A1,1 day,1 day,2-8
+RACTV,84244,Renin Active,,Luminescence Immunoassay,EDTA Plasma,3 ml,A2,6-7 days,28 days,-20
+REV T3,84482,Reverse T3,,LC-MS/MS,Serum,3 ml,A2,14-21 days,25 days,-20
+RFGAM,83520,Rheumatoid Factor IgM Antibodies (Quantitative),,ELISA,Serum,2 ml,A2,14 days,15 days,-20
+RUAB,86762,Rubella Antibody Avidity - IgG Test,,Immunoassay,Serum,3 ml,A2,10-14 days,14 days,-20
+SENM,84255,Selenium,,ICP-MS,EDTA,3 ml,A2,7-10 days,28 days,-20
+SERN,84260,Serotonin,,EIA,Serum,3 ml,A2,7 days,7 days,2-8
+SOSM,83930,Serum Osmolality,,Calculation,Serum,1 ml,A1,1 day,7 days,2-8
+SDFT,88182,Sperm DNA fragmentation test,,Halosperm,Semen (Frozen),4 ml,A2,7-10 days,10 days,-20
+SCAG,86316,Squamous Cell Carcinoma Ag,,Immunoassay,Serum (Frozen),3 ml,A2,7-14 days,28 days,-20
+STONA,82365,Stone Analysis,,IR Spectroscopy,Stone,Stone,A2,4-5 days,7 days,15-22
+SPH,83986,Stool pH,,Hydrion paper,Stool,5 grams,A2,2 days,2 days,2-8
+SGB,87802,Streptococcus Group B (Rapid Test),,Immunoassay,Dry Swab,1 Dry swab,A1,2 days,2 days,2-8
+PATHI,88300,Surgical pathology Level I,,Microscopy/Macroscopy,Tissue/biopsy specimen,N / A,A1,3-4 days,3 Months,15-22
+PATHII,88302,Surgical pathology Level II,,Microscopy/Macroscopy,Tissue,N / A,A1,4-5 days,3 Months,15-22
+PATHIII,88304,Surgical pathology Level III,,Microscopy/Macroscopy,Tissue,N / A,A1,4-5 days,3 Months,15-22
+PATHIV,88305,Surgical pathology Level IV,,Microscopy/Macroscopy,Tissue,N / A,A1,4-5 days,3 Months,15-22
+PATHV,88307,Surgical pathology Level V,,Microscopy/Macroscopy,Tissue,N / A,A1,4-5 days,3 Months,15-22
+PATHVI,88309,Surgical pathology Level VI,,Microscopy/Macroscopy,Tissue,N / A,A1,7-10 days,3 Months,15-22
+TBQT,86355+86359,T & B Cell Quantification by Flow Cytometry,,Flow Cytometry,K2/K3 EDTA WB,6 ml,A2,7-10 days,10 days,15-22
+TBDD,86357+86359+86360,"T + B Lymphocytes Differentiation (Lymphocytes Total, CD3, CD4, CD8)",,Flow Cytometry,K2/K3 EDTA WB,9 ml,A2,7-10 days,10 days,15-22
+TCFK,80197,Tacrolimus (FK506),,ELISA,K2/K3 EDTA WB,3 ml,A2,7-10 days,10 days,2-8
+THLLM,83018,Thallium blood,,ICP-MS,K2/K3 EDTA WB,3 ml,A2,7-10 days,15 days,-20
+THLLMS,83018,Thallium Serum,,ICP-MS,Serum,3 ml,A2,28 days,30 days,-20
+TSHR,84445,Thyroid Stimulating Immunoglobulin (TSH Receptor),,CMIA,Serum,1 ml,A2,7-10 days,7 days,2-8
+THLLE,80198,Theophylline,,Kinetic interaction of microparticles in a solution,Serum,3 ml,A2,5-7 days,7 days,2-8
+TBGS,84442,Thyroxine Binding Globulin,,Immunoassay,Serum,2 ml,A2,20 days,20 days,-20
+TTPM,80201,Topiramate (Topamax),,LC-MS/MS,Serum,3 ml,A2,25 days,30 days,-20
+TOXG,86777,Toxoplasma IgG,,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+TOXGA,86777,"Toxoplasma IgG, Avidity",,Enzyme Immunoassay,Serum,3 ml,A2,5-6 days,7 days,2-8
+TOXM,86778,Toxoplasma IgM,,CLIA,Serum,1 ml,A2,2-3 days,7 days,2-8
+TNFA,83520,Tumor Necrosis Factor - Alpha,,Enzyme Immunoassay,Serum,2 ml,A2,14 days,14 days,-20
+UBC13,83013,Urea Breath Test,,IRIS,Sample Kit,1 kit,A1,12 hrs,7 days,15-22
+UPCR,87798,Ureaplasma Parvum PCR,,Real-Time PCR,Urine / Dry Swab / LBC,10 mL 1st catch urine / 1 swab/LBC,A1,3 days,1-3 days except LBC: 30 days,2-8
+UUPCR,87798,Ureaplasma Urealyticum PCR,,Real-Time PCR,10 mL 1st catch urine / Urethral swab / High vaginal / Cervical Swab/LBC,10 mL 1st catch urine / 1 swab/LBC,A1,3 days,1-3 days except LBC: 30 days,2-8
+UPCUL,87070+87184,Ureplasma Culture,,Culture,Urethral Swab / Vaginal Swab/ Semen/Urine,1 swab / Semen/Urine,A2,3-5 days,7 days,2-8
+UHVA,83150,Urine Homovanillic Acid (HVA),,HPLC,24 hrs urine,20 ml,A2,25 days,30 days,-20
+URIOD,83789,Urine Iodide,,ICPMS,Random Urine,20 ml,A2,10-14 days,28 days,2-8
+UMET,80299,Urine Metamphetamine - Qualitative,,Rapid Immunochromatography,Random Urine,20 ml,A1,1 day,2 days,2-8
+UMETH,83840,Urine Methadone - Qualitative,,Rapid Immunochromatography,Random Urine,20 ml,A1,1 day,2 days,2-8
+UMQL,80101,Urine Morphine - Qualitative,,Rapid Immunochromatography,Random Urine,20 ml,A1,1 day,2 days,2-8
+UMQT,83874,Urine Myoglobin - Quantitative,,Chemiluminescent Immunometric assay,Random Urine,20 ml,A2,4-5 days,7 days,2-8
+UOQL,80299,Urine Opiates - Qualitative,,Rapid Immunochromatography,Random Urine,20 ml,A1,1 day,2 days,2-8
+UROA,83921,Urine Organic Acid,,Gass Chromatogrpahy- Mass Spectrometry,Random Urine,60 ml,A2,10-14 days,15 days,-20
+OYUR,83935,"Urine Osmolality, Measured",,OsmoPro - Freezing point depression,Random Urine,20 ml,A2,5-7 days,7 days,-20
+UPQL,83992,Urine Phencyclidine - Qualitative,,Immunoassay,Random Urine,20 ml,A2,4-5 days,7 days,2-8
+UPHL,80299,Urine Phenobarbital,,Rapid Immunochromatography,Random Urine,20 ml,A2,1 day,2 days,2-8
+UPRT,84156,Urine Protein,,Photoelectric colorimetry,Random Urine,20 ml,A2,1-2 days,2 days,2-8
+VMCY,80202,Vancomycin,,Photometry,Serum,2 ml,A2,7-8 days,10 days,-20
+VITAR,84590,Vitamin A (Retinol),,LC-MS/MS,Serum (Light protected),3 ml,A2,7-10 days,7 days,2-8
+VITB1,84425,Vitamin B1 (Thiamine),,LC-MS/MS,Serum,3 ml,A2,7-10 days,14 days,-20
+VITB2,84252,Vitamin B2 (Riboflavin),,LC-MS/MS,Serum,3 ml,A2,7-10 days,14 days,-20
+VITB3,84591,Vitamin B3 (Nicotinamide),,LC-MS/MS,Serum (Light protected),3 ml,A2,7-10 days,14 days,-20
+VIT6P,84207,Vitamin B6 (Pyridoxine),,LC-MS/MS,Serum,3 ml,A2,7-10 days,14 days,-20
+VITCA,82180,Vitamin C (Ascorbic Acid),,HPLC,Serum (Light protected),3 ml,A2,5-6 days,28 days,-20
+VITET,84446,Vitamin E (Tocopherol),,LC-MS/MS,Serum,3 ml,A2,7-10 days,14 days,-20
+VITK,84597,Vitamin K (Nutritional),,LC-MS/MS,Serum,3 ml,A2,7-10 days,14 days,-20
+UROB,84578,*Urine Urobilinogen,,Photoelectric colorimetry,Random Urine,20 ml,A1,12 hrs,2 days,2-8
+VDRL,86592,VDRL,,Latex,Serum,1 ml,A1,12 hrs,7 days,2-8
+CHPS,82480,Cholinesterase,,Photometry,Serum,2 ml,A2,7-10 days,7 days,2-8
+CADM,82300,Cadmium blood,,ICPMS,K2/K3 EDTA WB,3 ml,A2,7-10 days,10 days,2-8
+FAC V,81241,Factor V leidan mutation,,PCR,K2/K3 EDTA WB,3ml,A2,10 days,10 days,2-8
+FACMUD,,Factor II (Prothrombin) Mutation Detection,,PCR,K2/K3 EDTA WB,3ml,A2,10 days,10 days,2-8
+CHLPNIGM,,"Chlamydia Pneumoniae, IgM",,CLIA,Serum,3ml,A2,2-3 days,14 DAYS,-20
+LEPA,86720,Leptospira Antibody IgM,,ELISA,Serum,3ml,A2,7-10 days,7 days,2-8
+PST,85305,Protein S - Total,,COAGULATION ASSAY,Citrated plasma,3ml,A2,14 days,14 DAYS,-20
+GF79,86003,Gluten,,FEIA,Serum,3ml,A2,7-10 days,7 days,2-8
+APO B,82172,Apolipoprotein - B (Apo-B),,Photometry,Serum,3ml,A2,2-3 days,7 days,2-8
